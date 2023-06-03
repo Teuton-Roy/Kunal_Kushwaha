@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c678f06-2ece-4d87-ac70-0e62e5d87eeb" name="Changes" comment="Add commit">
+      <change afterPath="$PROJECT_DIR$/src/Linked_List/Questions/Reorder_list.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Linked_List/Questions/Reverse_Alternate_K_Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Linked_List/Questions/Reverse_Nodes_K_Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Linked_List/Questions/Rotate_list.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_And_Queue/Custom_Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_And_Queue/Custom_Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_And_Queue/Deque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_And_Queue/Dynamic_Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_And_Queue/InBuildQueues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_And_Queue/InBuildStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Linked_List/Questions/Linked_List_Cycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Linked_List/Questions/Linked_List_Cycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Linked_List/Questions/Middle_Of_The_Linked_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Linked_List/Questions/Middle_Of_The_Linked_List.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2QGSbKoO8aNhvfY0H0ED0r9m6zZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Linked_List.Singly_Linked_List" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Custom_Queue">
+    <configuration name="Custom_Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack_And_Queue.Custom_Queue" />
+      <module name="Kunal_Kushwaha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stack_And_Queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Custom_Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack_And_Queue.Custom_Stack" />
+      <module name="Kunal_Kushwaha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stack_And_Queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Deque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack_And_Queue.Deque" />
+      <module name="Kunal_Kushwaha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stack_And_Queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dynamic_Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack_And_Queue.Dynamic_Stack" />
+      <module name="Kunal_Kushwaha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stack_And_Queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InBuildQueues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack_And_Queue.InBuildQueues" />
+      <module name="Kunal_Kushwaha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stack_And_Queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Custom_Queue" />
+        <item itemvalue="Application.Dynamic_Stack" />
+        <item itemvalue="Application.Custom_Stack" />
+        <item itemvalue="Application.Deque" />
+        <item itemvalue="Application.InBuildQueues" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c678f06-2ece-4d87-ac70-0e62e5d87eeb" name="Changes" comment="" />
+      <created>1684978495337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684978495337</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Add commit">
+      <created>1685524493453</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685524493454</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add commit">
+      <created>1685601943483</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685601943483</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add commit">
+      <created>1685602003262</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685602003262</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/Linked_List/Singly_Linked_List/SL.java</url>
+          <line>12</line>
+          <properties field="next" class="Linked_List.Singly_Linked_List.SL.Node" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/Linked_List/Questions/Reverse_List.java</url>
+          <line>4</line>
+          <properties field="head" class="Linked_List.Questions.Reverse_List" />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Linked_List/Questions/Insert_Using_Recursion.java</url>
+          <line>39</line>
+          <properties class="Linked_List.Questions.Insert_Using_Recursion" method="insertRec">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="5" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.Exception" package="java.lang" />
+          <option name="timeStamp" value="8" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
